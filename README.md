@@ -8,3 +8,8 @@ kodu aldığım yer : https://github.com/matthewaltenburg/virtual_makeup_opencv
 
 virtual_makeup -> make-up kodunu bizim proje implement etmeye çalıştım hata var çalışmıyor henüz
 
+GUNCEL DURUM:
+
+- Input olarak resim alabiliyoruz
+- Movie scenes altındaki resimler önyüzde gösteriliyor ve seçim yapılabiliyor
+- seçim yapılan movie posteri color palette fonksiyonuna gidiyor ve colorlar geliyo
